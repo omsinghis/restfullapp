@@ -1,0 +1,24 @@
+Cloud accounts
+
+
+
+User 	                       Domain Name Datacenter 	Username 	    Password    ip of internal ou server
+tshepo.madigage@oracle.com 	    ouopc006 	EM2 	      ora1 	        neAt6yR8    10.160.77.124 
+bas.stitselaar@oracle.com 	    ouopc008 	EM2 	      ora1 	        neAt6yR8    10.160.77.111
+radu.nica@oracle.com 	        ouopc015 	EM2 	        ora1 	        neAt6yR8    10.160.77.112
+om.singh@oracle.com 	        ouopc020 	EM2 	        ora1 	        neAt6yR8    10.160.77.113
+james.bell@oracle.com	        ouopc062 	EM2 	        ora1 	        neAt6yR8    10.160.77.114
+susana.martinez@oracle.com 	    ouopc064 	EM2 	      ora1 	        neAt6yR8    10.160.77.115
+constantin.negrut@oracle.com 	ouopc066 	EM2 	       ora1 	        neAt6yR8    10.160.77.116
+gabor.virgil.gutyan@oracle.com 	ouopc068 	EM2 	     ora1 	        neAt6yR8    10.160.77.117
+christian.bodnariu@oracle.com 	ouopc070 	EM2 	     ora1 	        neAt6yR8    10.160.77.118
+gunjan.vaishnav@oracle.com 	    ouopc071 	EM2 	     ora1 	        neAt6yR8    10.160.77.121
+stewart.robinson@oracle.com 	ouopc073 	EM2 	       ora1 	        neAt6yR8    10.160.77.122
+shashikanth.gowda@oracle.com 	ouopc077 	EM2 	       ora1 	        neAt6yR8    10.160.77.123
+
+
+For the internal server please use these accounts
+
+    oracle user password is OU99717898 (OU<GESDB Event ID>)
+    root user password is OU99717998 (OU<GESDB Event ID+100>)
+Then you should change your passwords
